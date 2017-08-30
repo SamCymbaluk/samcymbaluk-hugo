@@ -50,3 +50,8 @@ theme = "minimal"
     url = "https://www.linkedin.com/in/sam-cymbaluk-515008149/"
     name = "linkedin-square"
     weight = 3
+
+[[menu.icon]]
+    url = "https://devpost.com/SamCymbaluk"
+    name = "devpost"
+    weight = 4
